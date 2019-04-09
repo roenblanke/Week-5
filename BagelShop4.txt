@@ -1,0 +1,11 @@
+package bagelshop4;
+
+public class BagelShop4 {
+
+    public static void main(String[] args) {
+        Password p = new Password();
+        p.setVisible(true);
+
+    }
+    
+}
